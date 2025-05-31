@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raphina MTA | Sunucu Kuralları</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+        body {
+            margin: 0;
+            font-family: 'Orbitron', sans-serif;
+            background: linear-gradient(145deg, #000814, #001d3d);
+            background-size: cover;
+            color: #fff;
+        }
+
+        header {
+            background-color: rgba(0, 0, 0, 0.85);
+            padding: 20px 40px;
+            text-align: center;
+            border-bottom: 2px solid #00b4d8;
+            position: relative;
+        }
+
+        header img.logo {
+            height: 80px;
+            position: absolute;
+            left: 20px;
+            top: 10px;
+        }
+
+        nav {
+            margin-top: 10px;
+        }
+
+        nav a {
+            color: #00b4d8;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #90e0ef;
+        }
+
+        .content {
+            padding: 60px 30px;
+            text-align: left;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        h1, h2 {
+            color: #00b4d8;
+        }
+
+        .footer {
+            background-color: rgba(0, 0, 0, 0.85);
+            color: #ccc;
+            text-align: center;
+            padding: 20px;
+            border-top: 2px solid #00b4d8;
+        }
+
+        p {
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="raphina logo.png" alt="Raphina Logo" class="logo">
+        <h1>Raphina MTA</h1>
+        <nav>
+            <a href="index.html">Anasayfa</a>
+            <a href="kurallar.html">Sunucu Kuralları</a>
+            <a href="market.html">Market</a>
+            <a href="ekip.html">Ekip</a>
+            <a href="https://discord.gg/Raphinarp" target="_blank">Discord</a>
+            <a href="https://www.youtube.com/@raphina-p1z9m" target="_blank">YouTube</a>
+        </nav>
+    </header>
+
+    <div class="content">
+        <h2>Raphina Roleplay - Sunucu Politikaları</h2>
+        <p>Sunucumuzda oyuncularımızın bilmesi gereken politikalarımızı burada yayınlıyoruz. Yayınlanmayan politikalar yalnızca yönetim kadrosu tarafından bilinmektedir. Sizlere verilen yasaklamaların nedenleri aşağıda yer almakta olup, bu tür politika ihlallerinin cezaları ciddi olup geri dönüşleri oldukça zordur.</p>
+
+        <h3>Politika - 40</h3>
+        <p>Sunucuda alınan görsel veya video kayıtlarının sunucu dışındaki platformlarda küçük düşürücü, küfürlü, aşağılayıcı veya argo içerikli şekilde paylaşılması durumunda bu politika uygulanır. Öncelikle içeriklerin kaldırılması talep edilir, reddedilmesi durumunda oyuncunun tüm hesapları ve mal varlıkları silinir. Paylaşımda bulunanlara yorum yapan oyuncular da aynı şekilde cezalandırılır.</p>
+
+        <h3>Politika - 68</h3>
+        <p>Sunucuda oynayıp daha sonra başka sunuculara yetkili veya destek vererek yardım eden kişiler tüm varlıkları ile birlikte sınırsız şekilde yasaklanır.</p>
+
+        <h3>Politika - 70</h3>
+        <p>Sunucu açıklarını, bugları veya teknik sorunları bildirmek yerine kullanan oyuncuların hesapları anında sıfırlanır. Af uygulanmaz.</p>
+
+        <h3>Politika - 71</h3>
+        <p>Discord destek sistemini uygunsuz veya gereksiz meşgul edenler, 1 haftalık zaman aşımına alınır. Tekrarı durumunda sınırsız yasaklama uygulanır.</p>
+
+        <h3>Politika - 72</h3>
+        <p>Zırhlı araçlar ile kurallara aykırı sürüş (CAR DM, NON RP Driving) yapanlara 1 aylık el koyma cezası uygulanır. Tekrarlanması durumunda araç kalıcı olarak alınır.</p>
+
+        <h3>Politika - 10</h3>
+        <p>Sunucuda devamlılık sağlamayan oyuncuların özel mülk ve bağış mapleri sunucu tarafından otomatik olarak satışa çıkarılır.</p>
+
+        <h3>Kadın Oyuncu Politikası</h3>
+        <p>Her türlü OOC taciz, küfür veya uygunsuz davranışlar sınırsız yasaklama ile sonuçlanır. Kadın oyunculara karşı her türlü hakaret veya cinsiyet temelli ayrımcılıkta aynı yaptırım uygulanır. Suç duyurusu TCK 102, 103, 104, 105 ve 107. maddelere göre yapılır.</p>
+
+        <h3>Mikrofon Kullanım Kuralları</h3>
+        <p>Baslı müzik açmak, ADK/DDK/MDK gibi hakaretlerde bulunmak yasaktır. Mikrofonunda uygunsuz sesler bulunan oyuncuların mikrofon hakları elinden alınır. Mikrofonu olmayan oyuncuların isimlerinde klavye simgesi, sesi olanlarda mikrofon simgesi gösterilir.</p>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2025 Raphina MTA | Tüm Hakları Saklıdır.</p>
+    </div>
+</body>
+</html>
