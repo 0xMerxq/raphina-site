@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raphina MTA</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+        body {
+            margin: 0;
+            font-family: 'Orbitron', sans-serif;
+            background: linear-gradient(145deg, #000814, #001d3d);
+            color: #fff;
+        }
+
+        header {
+            background-color: rgba(0, 0, 0, 0.85);
+            padding: 20px 40px;
+            text-align: center;
+            border-bottom: 2px solid #00b4d8;
+            position: relative;
+        }
+
+        header img.logo {
+            height: 80px;
+            position: absolute;
+            left: 20px;
+            top: 10px;
+        }
+
+        nav {
+            margin-top: 10px;
+        }
+
+        nav a {
+            color: #00b4d8;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #90e0ef;
+        }
+
+        .content {
+            padding: 60px 30px;
+            text-align: center;
+        }
+
+        h1, h2 {
+            color: #00b4d8;
+        }
+
+        .footer {
+            background-color: rgba(0, 0, 0, 0.85);
+            color: #ccc;
+            text-align: center;
+            padding: 20px;
+            border-top: 2px solid #00b4d8;
+        }
+
+        .hero {
+            background: url('raphina-logo.png') no-repeat center center;
+            background-size: 300px;
+            height: 300px;
+            margin-bottom: 40px;
+            opacity: 0.05;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="" alt="Raphina Logo" class="logo">
+        <h1>Raphina MTA</h1>
+        <nav>
+            <a href="kurallar.html" target="_blank">Sunucu Kuralları</a>
+            <a href="market.html" target="_blank">Market</a>
+            <a href="ekip.html" target="_blank">Ekip</a>
+            <a href="https://discord.gg/Raphinarp" target="_blank">Discord</a>
+            <a href="https://www.youtube.com/@raphina-p1z9m" target="_blank">YouTube</a>
+        </nav>
+    </header>
+
+    <div class="hero"></div>
+
+    <div class="content">
+        <h2>Raphina Roleplay'e Hoşgeldiniz!</h2>
+        <p>Sunucumuzla ilgili tüm bilgilere üstteki menüden ulaşabilirsiniz.</p>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2025 Raphina MTA | Tüm Hakları Saklıdır.</p>
+    </div>
+</body>
+</html>
